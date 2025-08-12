@@ -20,7 +20,7 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
 
 ## Architecture Overview
 
-
+![image alt](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Project_%20Architecture.png?raw=true)
 
 ---
 
