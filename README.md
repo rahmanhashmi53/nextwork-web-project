@@ -18,6 +18,18 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
 
 ---
 
+## Architecture Overview
+
+<p align="center">
+  <a href="diagrams/Project_%20Architecture.png">
+    <img src="diagrams/Project_%20Architecture.png" alt="End-to-end CI/CD architecture on AWS" width="900">
+  </a>
+</p>
+
+> Click to enlarge.
+
+---
+
 ## Day 1: Set Up a Web App in the Cloud
 
 - **Tools & Technologies:** AWS EC2, VS Code, SSH, Maven, Java
