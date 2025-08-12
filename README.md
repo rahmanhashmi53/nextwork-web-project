@@ -21,9 +21,7 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
 ## Architecture Overview
 
 <p align="center">
-  <a href="diagrams/Project_%20Architecture.png">
-    <img src="diagrams/Project_%20Architecture.png" alt="End-to-end CI/CD architecture on AWS" width="900">
-  </a>
+  <img src="./diagrams/project-architecture.png" alt="End-to-end CI/CD architecture" width="900">
 </p>
 
 > Click to enlarge.
