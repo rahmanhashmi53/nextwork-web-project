@@ -48,6 +48,11 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
   - GitHub authentication using Personal Access Tokens
   - Created README file in Markdown
 
+![Day 2 focus: Git & GitHub source integration](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Connect%20a%20GitHub%20Repo%20with%20AWS.png?raw=true)
+:--:
+*Day 2 — Git & GitHub source integration*
+
+
 ---
 
 ## Day 3: Secure Packages with CodeArtifact
@@ -58,6 +63,10 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
   - Configured IAM roles and policies
   - Connected Maven with CodeArtifact
   - Published custom packages to the repository
+
+![Day 3 focus: CodeArtifact for dependency management](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Store%20Dependencies%20in%20CodeArtifact.png?raw=true)
+:--:
+*Day 3 — CodeArtifact for dependencies*
 
 ---
 
@@ -71,6 +80,10 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
   - Automated testing scripts
   - Stored build artifacts in S3
 
+![Day 4 focus: CodeBuild CI stage](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Package%20an%20App%20with%20CodeBuild.png?raw=true)
+:--:
+*Day 4 — CodeBuild (CI)*
+
 ---
 
 ## Day 5: Deploy a Web App with CodeDeploy 
@@ -82,6 +95,10 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
   - Defined deployment phases using `appspec.yml`
   - Set up rollback strategies and deployment configurations
   - Handled intentional errors for disaster recovery testing
+
+![Day 5 focus: CodeDeploy to EC2](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Deploy%20a%20Web%20App%20with%20CodeDeploy.png?raw=true) 
+:--:
+*Day 5 — CodeDeploy to EC2*
 
 ---
 
@@ -95,6 +112,11 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
   - Used parameters for reusable templates
   - Deployed full stack from template and verified through AWS console
 
+![Day 6 focus: CloudFormation resources and IaC](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Infrastructure%20as%20Code%20with%20CloudFormation.png?raw=true) 
+:--:
+*Day 6 — CloudFormation (IaC)*
+
+
 ---
 
 ## Day 7: Build a CI/CD Pipeline with CodePipeline
@@ -106,6 +128,10 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
   - Enabled webhook triggers for automatic pipeline execution
   - Tested and verified pipeline automation
   - Practiced rollback and disaster recovery strategies
+
+![Day 7 focus: CodePipeline orchestration](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Build%20a%20CI-CD%20Pipeline%20with%20AWS.png?raw=true) 
+:--:
+*Day 7 — CodePipeline orchestration*
 
 ---
 
