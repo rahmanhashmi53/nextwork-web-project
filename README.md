@@ -22,7 +22,7 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
 
 ![End-to-end CI/CD architecture on AWS](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Project_%20Architecture.png?raw=true)
 :--:
-*Architecture Overview *
+**Architecture Overview**
 
 ---
 
@@ -33,7 +33,7 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
   - Launched EC2 instances
   - SSH connections
   - Created Java web application with Maven archetypes 
--- 
+ 
 ![Day 1 focus: EC2 provisioning and app setup](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.png?raw=true) 
 :--:
 *Day 1 — EC2 provisioning & app setup* 
