@@ -21,7 +21,7 @@ I dedicated myself to spending 3 hours daily to build a practical CI/CD pipeline
 ## Architecture Overview
 
 <p align="center">
-  <img src="[./diagrams/project-architecture.png](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Project_%20Architecture.png)" alt="End-to-end CI/CD architecture" width="900">
+  <img src="[[./diagrams/project-architecture.png](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Project_%20Architecture.png)](https://github.com/rahmanhashmi53/nextwork-web-project/blob/master/Diagrams/Project_%20Architecture.png?raw=true)" alt="End-to-end CI/CD architecture" width="900">
 </p>
 
 > Click to enlarge.
